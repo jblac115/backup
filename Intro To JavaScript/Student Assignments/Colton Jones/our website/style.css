@@ -1,0 +1,37 @@
+body {
+    background-image:url("nature-3082832__480.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title{
+    background-color: rgb(229, 211, 149);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300%;
+    text-align: center;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.alternative{
+    background-color: rgb(216, 162, 100);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 250%;
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+}
+#score{
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 150%;
+    text-align: center;
+    font-style: oblique;
+    text-align: middle;
+    text-transform: uppercase;
+}
+#results{
+    background-color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200%;
+    text-align: center;
+    text-transform: uppercase;
+}

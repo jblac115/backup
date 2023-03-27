@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 0, 0);
+}.alternatives:hover{
+    cursor:pointer
+}#score{
+    background:rgb(3, 238, 255)
+}p.inset {
+    border-style: solid;
+}p.three {
+    border-style: dotted;
+    border-color: blue;
+  }

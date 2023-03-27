@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 111, 111);
+}
+#title{
+    font-size: xx-large;
+}
+.alternative{
+    font-style: oblique;
+}
+hr{
+ color: burlywood;
+}

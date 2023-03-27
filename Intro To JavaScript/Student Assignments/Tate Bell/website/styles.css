@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url("images/mountainbackrgound.jpg");
+    color: rgb(66, 66, 66);
+
+}
+.alternative1 , #ttlDiv , #score , #result{
+    background-color: rgba(255, 255, 255, 0.637);
+    border-radius: 50px;
+    font-family:sans-serif;
+    font-size: larger;
+}
+.alternative1{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.alternative1:hover{
+    color: rgb(7, 179, 7);
+    background-color: rgba(255, 255, 255, 0.842);
+    cursor: pointer;
+}

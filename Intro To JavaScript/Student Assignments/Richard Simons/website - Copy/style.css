@@ -1,0 +1,29 @@
+body,
+ul,
+li,
+h1,
+h2,
+a {
+   margin: 20;
+   padding: 0;
+    font-family: Papyrus;
+}
+body{
+    background-color: rgb(255, 0, 0);
+    font-family: papyrus;
+    font-size: 200%;
+}
+.quiz{
+    
+    margin: 20px;
+    padding:200px;
+    border-radius: 30%;
+    box-shadow: 100px 50px 100px rgb(255, 0, 179);
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 0, 255);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 30%;
+    left: 70%;
+    width: 20%;
+}

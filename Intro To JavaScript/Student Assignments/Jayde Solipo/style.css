@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNzn42MQ157gyqgAteCDvqZknsDgwYxUBdvA&usqp=CAU);
+
+}
+
+#wrapper{
+    background-color: rgb(231, 133, 135);
+    margin: 50px 50px 0px 50px;
+}
+
+.alternatives{
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    color:aliceblue;
+}
+
+
+
+.alternatives:hover{
+    cursor: pointer;
+}
+
+#score{
+    padding: 10px;
+    border-style: double;
+    border-color: black;
+}

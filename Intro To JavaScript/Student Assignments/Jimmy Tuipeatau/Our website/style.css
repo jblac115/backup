@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(101, 101, 235);
+    color: white;
+    font-size: 50;
+    display: flexbox;
+    justify-content: space-around;
+    max-width: 500px;
+    margin: auto;
+    padding: 5px;
+    font-family: cursive;
+     align-items:center ;
+ 
+}
+#title{
+    border-style: dotted;
+    border-color:black;
+    border-width: thick;
+    width: fit-content;
+    font-size: 70;
+    font-family: fantasy;
+    color: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 5px;
+
+}
+#score{
+    text-align: center;
+}

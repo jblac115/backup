@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(to bottom, #336699 0%, #009999 100%);
+    color: rgb(233, 233, 233);
+}
+.alternative:hover {
+    background-color:rgb(165, 165, 165)
+}

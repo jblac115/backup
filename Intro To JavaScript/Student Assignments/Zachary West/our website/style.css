@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(134, 134, 134, 0.589);
+}
+#wrapper{
+    align-items: center;
+}
+#wrapper div, #wrapper ul{
+  width:30%
+}
+#title{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border : rgb(255, 0, 0) 2px solid;
+}
+.alternatives{
+    background-color: rgb(252, 252, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding :0;
+    background-color : rgb(255, 255, 255);
+    border : rgb(255, 0, 0) 2px solid;
+}

@@ -1,0 +1,26 @@
+/* body{
+    background-image: url("rainbowSesure.gif");
+    background-size: 1cm;
+    background-repeat: repeat;
+} 
+Add this if you want epilepsy :D 
+*/
+body{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 20;
+    background-image: url("penguin.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: 100%;
+    padding: 42;
+}
+#title{
+    font-size: 42;
+}
+ul{
+    list-style: lower-latin;
+    text-align: left;
+    padding-left: 49%;
+}

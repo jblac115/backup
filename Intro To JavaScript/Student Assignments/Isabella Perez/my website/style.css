@@ -1,0 +1,56 @@
+body{
+    background-color: lightskyblue;
+    align-items: center;
+}
+#title{
+    color: peru;
+    text-align: center;
+    font-size: 30px;
+    font-family:papyrus;
+    font-weight: bold;
+    border-style:double ;
+    border-width: 10px;
+    border-color: burlywood;
+
+}
+#alternatives:hover{
+    cursor:pointer 
+}
+.alternatives{
+    color:chocolate;
+    text-align: center;
+   background-color: burlywood;
+   margin:5px;
+   font-size: 25px;
+  width: 50%;
+  padding: 0%;
+  margin-left:25% ;
+  font-family: papyrus;
+  font-weight: bold;
+  outline-style:solid ;
+  outline-width:2px ;
+  border-style: double;
+  border-width:10px ;
+
+}
+#score{
+    color: royalblue;
+    text-align: center;
+    font-size: 20px;
+    border-style:solid;
+    border-color:burlywood;
+    border-width: 5px;
+    margin-left: 27%;
+    margin-right: 25%;
+    outline-style: solid;
+    outline-width: 5px;
+
+}
+#result{
+    color:royalblue;
+    text-align: center;
+    font-size: 20px;
+    border-style: solid;
+    border-color:darkblue;
+    margin-right: 2%;
+}
